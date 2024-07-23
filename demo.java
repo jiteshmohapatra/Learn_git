@@ -12,7 +12,10 @@ if(x==10 && y==5){
 }else{
     System.out.println("false");
 }
+System.out.println("Default");
 }
+
+
 
 
 }
