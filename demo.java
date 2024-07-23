@@ -3,8 +3,13 @@ class demo{
 
 public static void main(String args[]){
 
+int x = 10;
 
-    System.out.println("Welcome to the java programming world");
+int y = 20;
+
+if(x==10 || y==5){
+    System.out.println("True");
+}
 }
 
 
