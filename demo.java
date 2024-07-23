@@ -7,8 +7,10 @@ int x = 10;
 
 int y = 20;
 
-if(x==10 || y==5){
+if(x==10 && y==5){
     System.out.println("True");
+}else{
+    System.out.println("false");
 }
 }
 
