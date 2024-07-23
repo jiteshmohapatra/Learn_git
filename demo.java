@@ -3,7 +3,7 @@ class demo{
 
 public static void main(String args[]){
 
-int x = 10;
+int x = 15;
 
 int y = 20;
 
